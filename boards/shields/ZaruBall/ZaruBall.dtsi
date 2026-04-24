@@ -191,8 +191,6 @@
         y-input-code = <INPUT_REL_Y>;
         rotation-angle = <15>;
         /* --- ここから追加 --- */
-        swap-xy;      // XとYを入れ替える
-        invert-y;
         /* --- ここまで追加 --- */
 
         force-awake;
