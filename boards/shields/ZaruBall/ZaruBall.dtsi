@@ -191,9 +191,7 @@
         y-input-code = <INPUT_REL_Y>;
 
         /* --- ここから追加 --- */
-        swap-xy;      // XとYを入れ替える（90度回転の基本）
-        invert-x;     // 必要に応じて左右を反転
-        // invert-y;  // 必要に応じて上下を反転
+        swap-xy;      // XとYを入れ替える
         /* --- ここまで追加 --- */
 
         force-awake;
